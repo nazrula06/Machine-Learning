@@ -1,1 +1,1 @@
-Projects done in my Machine Learning Course at University of South Florida
+Projects done using python in my Machine Learning Course taught by Dr. Varol Kayhan at University of South Florida in Global Online Master of Science in Artificial Intelligence (AI) and Business Analytics. 
